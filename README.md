@@ -4,11 +4,9 @@ The dataset required for the tasks can be found here:
 http://busibud.com/ml_tasks.zip
 
 
-For this task, we would prefer if you worked on a notebook format for all of the tasks you need to undertake, including data cleaning, transformation, numerical simulation, statistical modeling, data visualization, machine learning, etc. Please make sure it is as expressive as possible.
-
 
 Task 
-Here you would need to create a model which assigns a customer to a certain customer category based on the total value of orders they’ve placed. This would let us target the most valuable customers with certain offers which promote a higher spend. 
+Here we would need to create a model which assigns a customer to a certain customer category based on the total value of orders they’ve placed. This would let us target the most valuable customers with certain offers which promote a higher spend. 
 The dataset is a CSV, where each row represents an sku which is a part of an order. The different columns are described below. Every conversation included has at least one request from a consumer and at least one response from a company. Which user IDs are company user IDs can be calculated using the inbound field.
 Content
 InvoiceNo
